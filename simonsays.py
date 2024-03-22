@@ -8,7 +8,7 @@ Exercises
 
 from random import choice
 from time import sleep
-from turtle import *
+from turtle import update, onscreenclick, setup, hideturtle, tracer, done
 
 from freegames import floor, square, vector
 
